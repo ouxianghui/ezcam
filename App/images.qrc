@@ -1,0 +1,45 @@
+<RCC>
+    <qresource prefix="/">
+        <file>icons/about.jpg</file>
+        <file>icons/accept.png</file>
+        <file>icons/add_arc_128.png</file>
+        <file>icons/add_circle_128.png</file>
+        <file>icons/add_common_shape_128.png</file>
+        <file>icons/add_custom_shape_128.png</file>
+        <file>icons/add_line_128.png</file>
+        <file>icons/delete_128.png</file>
+        <file>icons/delete_list_128.png</file>
+        <file>icons/delete_solution_128.png</file>
+        <file>icons/drawing_print_128.png</file>
+        <file>icons/edit_nc_order_32.png</file>
+        <file>icons/edit_nc_order_32_1.png</file>
+        <file>icons/edit_nc_order_32_2.png</file>
+        <file>icons/export_bmp_128.png</file>
+        <file>icons/export_dxf_128.png</file>
+        <file>icons/export_nc_128.png</file>
+        <file>icons/help_128.png</file>
+        <file>icons/hiden_board_information_32.png</file>
+        <file>icons/hiden_cut_point_32.png</file>
+        <file>icons/import_dxf_128.png</file>
+        <file>icons/import_material_list_128.png</file>
+        <file>icons/label_print_128.png</file>
+        <file>icons/last_page.png</file>
+        <file>icons/modify_cut_point_32.png</file>
+        <file>icons/new_project_128.png</file>
+        <file>icons/next_page.png</file>
+        <file>icons/open_project_128.png</file>
+        <file>icons/packing_128.png</file>
+        <file>icons/printer_settings_128.png</file>
+        <file>icons/quit_128.png</file>
+        <file>icons/reset_32.png</file>
+        <file>icons/reset_viewport_64.png</file>
+        <file>icons/save_project_128.png</file>
+        <file>icons/select_board_32.png</file>
+        <file>icons/system_settings_128.png</file>
+        <file>icons/deselect_128.png</file>
+        <file>icons/startup.jpg</file>
+        <file>icons/previewer_bg.png</file>
+        <file>icons/add_128.png</file>
+        <file>icons/del_128.png</file>
+    </qresource>
+</RCC>

@@ -16,11 +16,11 @@ EZCam是一款优化排版软件。实现2D-BPP、智能下刀点搜索、多边
 Qt5
   
 ## UI
-<img src="https://github.com/ouxianghui/ezcam/uisamples/blob/main/startup.jpg" height="500" /><br>
-<img src="https://github.com/ouxianghui/ezcam/uisamples/blob/main/aboutus.jpg" height="500" /><br>
-<img src="https://github.com/ouxianghui/ezcam/uisamples/blob/main/list.jpg" height="500" /><br>
-<img src="https://github.com/ouxianghui/ezcam/uisamples/blob/main/settings.jpg" height="500" /><br>
-<img src="https://github.com/ouxianghui/ezcam/uisamples/blob/main/cnc-preview.jpg" height="500" /><br>
+<img src="https://github.com/ouxianghui/ezcam/blob/main/uisamples/startup.jpg" height="500" /><br>
+<img src="https://github.com/ouxianghui/ezcam/blob/main/uisamples/aboutus.jpg" height="500" /><br>
+<img src="https://github.com/ouxianghui/ezcam/blob/main/uisamples/list.jpg" height="500" /><br>
+<img src="https://github.com/ouxianghui/ezcam/blob/main/uisamples/settings.jpg" height="500" /><br>
+<img src="https://github.com/ouxianghui/ezcam/blob/main/uisamples/cnc-preview.jpg" height="500" /><br>
 
 
 ## 作者
